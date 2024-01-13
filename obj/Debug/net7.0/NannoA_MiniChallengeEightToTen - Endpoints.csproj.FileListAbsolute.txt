@@ -1,0 +1,33 @@
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\appsettings.Development.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\appsettings.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.exe
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.deps.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.runtimeconfig.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.pdb
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.csproj.AssemblyReference.cache
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.AssemblyInfoInputs.cache
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.AssemblyInfo.cs
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.csproj.CoreCompileInputs.cache
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.NannoA_MiniChallengeEightToTen - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.NannoA_MiniChallengeEightToTen - Endpoints.props
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NannoA_MiniChallengeEightToTen - Endpoints.props
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NannoA_MiniChallengeEightToTen - Endpoints.props
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets.pack.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets.build.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets.development.json
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\scopedcss\bundle\NannoA_MiniChallengeEightToTen - Endpoints.styles.css
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.csproj.CopyComplete
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\refint\NannoA_MiniChallengeEightToTen - Endpoints.dll
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.pdb
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeEightToTen - Endpoints.genruntimeconfig.cache
+G:\CodeStack\Level 2\week2\D4 SQL Database\Assignment\NannoA_MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\ref\NannoA_MiniChallengeEightToTen - Endpoints.dll
