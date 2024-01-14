@@ -1,4 +1,6 @@
 using NannoA_MiniChallengeEightToTen___Endpoints.Services.GuessIt;
+using NannoA_MiniChallengeEightToTen___Endpoints.Services.Magic8Ball;
+using NannoA_MiniChallengeEightToTen___Endpoints.Services.RestaurantPicker;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +10,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IMagic8BallService, Magic8BallService>();
 builder.Services.AddScoped<IGuessItService, GuessItService>();
+builder.Services.AddScoped<IRestaurantPickerService, RestaurantPickerService>();
 
 var app = builder.Build();
 
